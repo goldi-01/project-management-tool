@@ -9,7 +9,7 @@ from bson.objectid import ObjectId
 st.markdown("""
     <style>
     .custom-heading {
-        background-color: #1E3A8A;                  
+        background-color: #008000;                  
         border-radius: 8px;
         text-align: center;
     }
@@ -320,3 +320,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
