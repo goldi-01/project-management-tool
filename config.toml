@@ -1,0 +1,7 @@
+[theme]
+# Brand Colors
+primaryColor = "#1E3A8A"          
+backgroundColor = "#cfe1f3ff"       
+secondaryBackgroundColor = "#E0F2FE"  
+textColor = "#111827"             
+font = "sans serif" 
